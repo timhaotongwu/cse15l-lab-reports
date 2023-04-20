@@ -6,9 +6,11 @@
 <img width="950" alt="Capture" src="https://user-images.githubusercontent.com/122568570/212788097-4407e657-cfca-4640-9e6d-da8e9d8236ea.PNG">
 
 2. Download the Visual Studio Code application which link is here : [link](https://code.visualstudio.com/)
+
 <img width="292" alt="d" src="https://user-images.githubusercontent.com/122568570/212788926-15a3900c-5deb-4df8-8b16-812bc3d9b05e.PNG">
 
 3. Open the Visual Studio Code Application and make sure that Git is download as well [link](https://gitforwindows.org/) and set default terminal git bash in Visual Studio code.
+
 <img width="773" alt="e" src="https://user-images.githubusercontent.com/122568570/212788443-e7e69240-ffa6-46db-a157-57f867a22e1c.PNG">
 <img width="480" alt="都" src="https://user-images.githubusercontent.com/122568570/212789023-9f582b61-cd5a-4cdb-b6a6-3f4d31c91cdc.PNG">
 
