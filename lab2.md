@@ -20,3 +20,4 @@ Fixes: in Reversed, swap newArray and arr (just the words, not the indexing) and
 
 ## Part 3 - In a couple of sentences, describe something you learned from lab in week 2 or 3 that you didn’t know before.
 
+Throughout the lab, I learned The URLHandler Interface and ran the server on a remote computer. We can remotely change the information in the URL, like numbers and data, which I haven't known before, and that's very interesting to me. I am also trying to debug some code, which helps me learn more.
