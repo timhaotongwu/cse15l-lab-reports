@@ -2,9 +2,7 @@
 # Haotong Wu 
 # May 1, 2023
 
-## Part 1 - Write a web server called `StringServer`that supports the path and behavior described below. 
-It should keep track of a single string that gets added to by incoming requests. 
-
+## Part 1 - Write a web server called `StringServer`that supports the path and behavior described below. It should keep track of a single string that gets added to by incoming requests. 
 
 ## Part 2 - Choose one of the bugs from lab 3 and Briefly describe why the fix addresses the issue.
 
