@@ -24,3 +24,25 @@
 4. Click the white button showing open with visual studio code
 <img width="485" alt="open" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/b33ad0ef-e425-4ae8-9740-964c69b77065">
 
+## Step 3 - Run the tests, demonstrating that they fail
+1. After open the files through Visual Studio Code you should see something like this
+<img width="1128" alt="col" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/65b6a7b8-877f-4fde-962a-403bef49ef58">
+
+2. Open the Terminal and run the bash test.sh and we see the test failed
+<img width="644" alt="fail" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/253f418d-adf7-4c66-8bc6-e99270aa9d5c">
+
+## Step 4 - Edit the code file ListExamples.java to fix the failing test (as a reminder, the error in the code is just that index1 is used instead of index2 in the final loop in merge)
+1. We open the vim and using the method in vim to change the index1 to index2 in the final loop in merge
+2. We press the key <j> 42 times to move to the line 43
+3. Press the key <i> 12 times to move to the right 
+4. Press the key <r> to change the character 1 to 2
+5. Press the key <ESC> to exit vim mode
+
+## Step 5 - Run the tests, demonstrating that they now succeed
+1. Rerun the test by bash test.sh and we see no errors
+
+  
+## Step 6 - Commit and push the resulting change to your Github account
+
+
+
