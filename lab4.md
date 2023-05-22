@@ -46,7 +46,8 @@
   
 ## Step 6 - Commit and push the resulting change to your Github account
 1. Use git commit to commit staged changes
-<img width="533" alt="Screen Shot 2023-05-22 at 12 40 55 PM" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/95e25db4-826c-4c97-a3ee-d90afeb1b567">
+<img width="542" alt="Screen Shot 2023-05-22 at 1 31 34 PM" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/dca4b592-1a47-4406-a11f-f9cab7c103c1">
+
 
 2. Use git push to push the commited changes
 <img width="595" alt="Screen Shot 2023-05-22 at 1 32 14 PM" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/6a41147f-f088-4437-98ff-1931eccafdfb">
