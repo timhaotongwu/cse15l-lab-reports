@@ -29,7 +29,8 @@
 <img width="1128" alt="col" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/65b6a7b8-877f-4fde-962a-403bef49ef58">
 
 2. Open the Terminal and run the bash test.sh and we see the test failed
-<img width="644" alt="fail" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/253f418d-adf7-4c66-8bc6-e99270aa9d5c">
+<img width="589" alt="Screen Shot 2023-05-22 at 12 24 17 PM" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/7da50e0a-6b29-4207-b818-277e61e3affe">
+<img width="580" alt="Screen Shot 2023-05-22 at 12 25 19 PM" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/970f5706-1b88-49f6-b561-5753d5ca04f1">
 
 ## Step 4 - Edit the code file ListExamples.java to fix the failing test (as a reminder, the error in the code is just that index1 is used instead of index2 in the final loop in merge)
 1. We open the vim and using the method in vim to change the index1 to index2 in the final loop in merge
@@ -39,7 +40,8 @@
 5. Press the key <ESC> to exit vim mode
 
 ## Step 5 - Run the tests, demonstrating that they now succeed
-1. Rerun the test by bash test.sh and we see no errors
+1. Rerun the test by bash test.sh and we see no errors and OK
+<img width="533" alt="Screen Shot 2023-05-22 at 12 40 55 PM" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/3ce63a31-c50a-44d2-a232-5e98a2b19626">
 
   
 ## Step 6 - Commit and push the resulting change to your Github account
