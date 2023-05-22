@@ -12,4 +12,4 @@
 <img width="577" alt="login" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/bf48cc89-137d-4352-be73-08b3be8be7eb">
 
 ## Step 2 - Clone your fork of the repository from your Github account
-
+1. Follow the instrcution to clone the link here 
