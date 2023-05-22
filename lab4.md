@@ -16,7 +16,8 @@
 <img width="909" alt="lab" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/4366548f-a430-40ad-9423-64d0f3fe40ff">
 
 2. Command the link by git clone https://github.com/timhaotongwu/lab7.git
-<img width="329" alt="desktop" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/7c86cf9a-2890-4b56-bd30-860326ccf457">
+<img width="621" alt="Screen Shot 2023-05-22 at 1 58 27 PM" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/40cffc7a-43fc-4327-a902-3644fb2f4c43">
+
 
 ## Step 3 - Run the tests, demonstrating that they fail
 1. After open the files through Visual Studio Code you should see something like this
