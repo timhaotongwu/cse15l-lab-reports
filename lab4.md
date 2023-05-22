@@ -37,7 +37,7 @@
 2. We press the key (j) 42 times to move to the line 43
 3. Press the key (i) 12 times to move to the right 
 4. Press the key (r) to change the character 1 to 2
-5. Press the key (ESC) to exit vim mode
+5. Press the key (esc) to exit vim mode
 
 ## Step 5 - Run the tests, demonstrating that they now succeed
 1. Rerun the test by bash test.sh and we see no errors and OK
