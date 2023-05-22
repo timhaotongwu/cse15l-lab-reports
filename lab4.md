@@ -34,10 +34,10 @@
 
 ## Step 4 - Edit the code file ListExamples.java to fix the failing test (as a reminder, the error in the code is just that index1 is used instead of index2 in the final loop in merge)
 1. We open the vim and using the method in vim to change the index1 to index2 in the final loop in merge
-2. We press the key <j> 42 times to move to the line 43
-3. Press the key <i> 12 times to move to the right 
-4. Press the key <r> to change the character 1 to 2
-5. Press the key <ESC> to exit vim mode
+2. We press the key (<j>) 42 times to move to the line 43
+3. Press the key (<i>) 12 times to move to the right 
+4. Press the key (<r>) to change the character 1 to 2
+5. Press the key (<ESC>) to exit vim mode
 
 ## Step 5 - Run the tests, demonstrating that they now succeed
 1. Rerun the test by bash test.sh and we see no errors and OK
