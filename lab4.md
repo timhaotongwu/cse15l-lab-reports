@@ -21,6 +21,6 @@
 3. Click clone to clone button in blue
 <img width="601" alt="clone" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/9c93d73b-7f8f-4fe5-9851-6292fab69b76">
 
-4. CLick the white button showing open with visual studio code
+4. Click the white button showing open with visual studio code
 <img width="485" alt="open" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/b33ad0ef-e425-4ae8-9740-964c69b77065">
 
