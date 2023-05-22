@@ -18,12 +18,6 @@
 2. Command the link by git clone https://github.com/timhaotongwu/lab7.git
 <img width="329" alt="desktop" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/7c86cf9a-2890-4b56-bd30-860326ccf457">
 
-3. Click clone to clone button in blue
-<img width="601" alt="clone" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/9c93d73b-7f8f-4fe5-9851-6292fab69b76">
-
-4. Click the white button showing open with visual studio code
-<img width="485" alt="open" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/b33ad0ef-e425-4ae8-9740-964c69b77065">
-
 ## Step 3 - Run the tests, demonstrating that they fail
 1. After open the files through Visual Studio Code you should see something like this
 <img width="1128" alt="col" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/65b6a7b8-877f-4fde-962a-403bef49ef58">
