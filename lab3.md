@@ -16,9 +16,11 @@
 
 
 `sed`: is a powerful command-line utility that can perform various operations on text files, including searching and pattern matching. It is particularly useful for text transformations and editing.
+
 <img width="503" alt="seed" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/30c7579b-38d0-433e-8136-8680aec6f9d2">
 
 
 `egrep`:  is an extended version of grep that supports extended regular expressions. It provides additional features compared to grep and allows for more complex pattern matching.
+
 <img width="505" alt="egrep" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/6e875abd-0d93-4e88-9ca5-26be957b3e28">
 
