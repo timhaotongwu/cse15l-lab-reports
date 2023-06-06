@@ -15,4 +15,4 @@ People definitely have made some sort of this mistake before, I do too. I think 
 
 
 ## Part 2 - Reflection 
-
+Implement and learn commands such as cd, ls -lat, and ls -a. Throughout this quarter of learning CSE 15L, I learned a lot, including remote login, URLs and Servers,  Automated Unit Testing and Debugging, File Exploration, Text Analysis from the Command Line, and so on. And during this class which is my first time knowing how to use Github and set up my page, and learned how to clone and open from VSC. And I think this class really help me a lot as a core CS class. Thank you to all who help me learn in this class.
