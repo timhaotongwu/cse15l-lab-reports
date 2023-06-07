@@ -10,7 +10,7 @@
 
 <img width="689" alt="ternimal" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/efe3f93b-162b-44f7-bf5f-7695b25a7f49">
 
-3. Login in to the ieng6 account, typying `ssh cs15lsp23jf@ieng6.ucsd.edu` and then the passward
+3. Login in to the ieng6 account, typying `ssh cs15lsp23jf@ieng6.ucsd.edu` and then the password
 
 <img width="577" alt="login" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/bf48cc89-137d-4352-be73-08b3be8be7eb">
 
