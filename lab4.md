@@ -51,3 +51,6 @@
 
 3. Use `git push` to push the commited changes
 
+<img width="595" alt="240034853-6a41147f-f088-4437-98ff-1931eccafdfb" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/2af5754f-c013-4cf4-bed1-991692c56b56">
+
+
