@@ -50,8 +50,6 @@
 <img width="542" alt="Screen Shot 2023-05-22 at 1 31 34 PM" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/dca4b592-1a47-4406-a11f-f9cab7c103c1">
 
 3. Use `git push` to push the commited changes
-
-
 <img width="595" alt="Screen Shot 2023-05-22 at 1 32 14 PM" src="https://github.com/timhaotongwu/cse15l-lab-reports/assets/122568570/6a41147f-f088-4437-98ff-1931eccafdfb">
 
 
